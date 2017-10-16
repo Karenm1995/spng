@@ -1,5 +1,7 @@
 {
-  "name": "myApp",
+  "name": "songhop",
   "app_id": "",
-  "type": "ionic1"
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": []
 }

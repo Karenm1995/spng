@@ -1,26 +1,12 @@
-Ionic App Base
-==============
+Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps
+=======
 
-A starting project for Ionic that optionally supports using custom SCSS.
+This repository contains the markdown and code for the [Mastering Ionic course hosted on Thinkster.io](https://thinkster.io/ionic-framework-tutorial/). Pull requests are more than welcome for typos, code errors, etc :)
 
-## Using this project
+### Getting the base project set up
+Run the command `npm install`. Then follow the rest of the course, starting at the section ["Starting our project"](https://thinkster.io/ionic-framework-tutorial/#starting-our-project).
 
-We recommend using the [Ionic CLI](https://github.com/ionic-team/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
+If you want the source code of the final working Ionic application, make sure you have [Thinkster Pro](https://thinkster.io/pro) and then download it from the course page on Thinkster.
 
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
-
-```bash
-$ npm install -g ionic cordova
-```
-
-Then run:
-
-```bash
-$ ionic start myProject tabs --type=ionic1
-```
-
-More info on this can be found on the Ionic [Getting Started](https://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/ionic-team/ionic-cli) repo.
-
-## Issues
-
-Issues have been disabled on this repo. If you do find an issue or have a question, consider posting it on the [Ionic Forum](https://forum.ionicframework.com/). If there is truly an error, follow our guidelines for [submitting an issue](https://ionicframework.com/submit-issue/) to the main Ionic repository.
+### Need help?
+Feel free to [shoot me a tweet](https://twitter.com/ericsimons40), or if you have [Thinkster Pro](https://thinkster.io/pro), I'm also available on the Pro Slack channel for one-on-one support.
